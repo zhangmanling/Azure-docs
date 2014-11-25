@@ -1,4 +1,5 @@
 Azure-docs
 ==========
 
-Using CDN for Azure
+Title: Using CDN for Azure
+
